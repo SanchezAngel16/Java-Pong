@@ -1,6 +1,6 @@
 package main;
 
-import swing.Frame;
+import window.Frame;
 
 public class Pong {
 	

@@ -1,4 +1,4 @@
-package swing;
+package window;
 
 import java.awt.Canvas;
 import java.awt.Color;

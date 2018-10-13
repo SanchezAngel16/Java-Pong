@@ -1,4 +1,4 @@
-package swing;
+package window;
 
 import java.awt.Dimension;
 
@@ -20,8 +20,6 @@ public class Frame extends JFrame{
 		setTitle(title);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setResizable(false);
-		//setExtendedState(JFrame.MAXIMIZED_BOTH); 
-		//setUndecorated(true);
 		setPreferredSize(new Dimension(WIDTH,HEIGHT));
 		pack();
 		setLocationRelativeTo(null);
