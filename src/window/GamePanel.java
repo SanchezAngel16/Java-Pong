@@ -20,7 +20,6 @@ public class GamePanel extends Canvas implements KeyListener, Runnable{
 	private Paddle mPaddle1;
 	private Paddle mPaddle2;
 	private static Boolean isRunning;
-	//private Thread mThread;
 	
 	private final float PADDLE_WIDTH = 20;
 	private final float PADDLE_HEIGHT = 150;
